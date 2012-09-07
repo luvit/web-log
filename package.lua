@@ -1,0 +1,3 @@
+return {
+  main = "log.lua"
+}
